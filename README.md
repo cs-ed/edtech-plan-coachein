@@ -1,14 +1,13 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8389895&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+This Educational Technology Plan will outline course goals for an Introduction to Computer Science course.  It will discuss how to handle possible issues surrounding hardware and networking as well as reflect on learning effectiveness and impacts such as social and ethical impacts as well as resilience and flexibility for teaching modalities.
 
 ## Context
 
 ### Course
 
-Describe your course including the name, description, and grade level
-
+The course, Intro to Computer Science, will introduce you to the field of computer science and the fundamentals of computer programming. This course is specifically designed for students with no prior programming experience, and touches upon a variety of fundamental topics required to write computer programs. If you are interested in learning how to write interactive, graphical programs from an introductory level in a real programming language, this is the course for you. You will begin by learning the basics of editing and running programs. Then you will learn how to create 2D graphics using shapes and coordinates. Finally, you will learn how to create interactive graphics that you can control with the mouse. 
 ### Situation
 
 Provide relevant details about your course and/or school that will influence the
