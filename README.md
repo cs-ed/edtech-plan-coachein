@@ -8,7 +8,13 @@ This Educational Technology Plan will outline course goals for an Introduction t
 ### Course
 
 The course, Intro to Computer Science, will introduce you to the field of computer science and the fundamentals of computer programming. This course is specifically designed for students with no prior programming experience, and touches upon a variety of fundamental topics required to write computer programs. If you are interested in learning how to write interactive, graphical programs from an introductory level in a real programming language, this is the course for you. You will begin by learning the basics of editing and running programs. Then you will learn how to create 2D graphics using shapes and coordinates. Finally, you will learn how to create interactive graphics that you can control with the mouse. 
+
 ### Situation
+
+Here is my list of priorities:
+
+* Teach students how to code
+* Have fun!
 
 Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
