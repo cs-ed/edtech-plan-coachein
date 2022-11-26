@@ -25,11 +25,11 @@ This happened three times this school year, and each time the students have acce
 
 One of the main goals of this class will be to teach device ettiquite and help students learn to use the Chromebook's tools successfully.  Hopefully, helping them be more tech savvy and ready for the workforce.  If the students can learn how to use their devices respecfully, and are shown how the Chromebooks can be a functional tool to help them be successful, some of the issues with dievice use in clas may subside.
 
+The class will start with a little history about computers.  Then move into learning about computer parts and their jobs.  The course will discuss binary and 8-bit language and do some calculations in binary.  Next, the Google Suite will be explored.  Students will learn basic functions of Docs, Slides, Forms and Sheets.  They will also spend time learning to make minigames with Scratch.
+
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+All software used will be web based.  The course will use Chrome as the browser and the Gooogle Suite for assignments.  Content and tasks will be presented on Google Classroom using Slides, Docs, and Forms, as well as links to video and website content.
 
 ### Hardware Specifications
 
