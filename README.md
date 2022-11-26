@@ -7,18 +7,11 @@ This Educational Technology Plan will outline course goals for an Introduction t
 
 ### Course
 
-The course, Intro to Computer Science, will introduce you to the field of computer science and the fundamentals of computer programming. This course is specifically designed for students with no prior programming experience, and touches upon a variety of fundamental topics required to write computer programs. If you are interested in learning how to write interactive, graphical programs from an introductory level in a real programming language, this is the course for you. You will begin by learning the basics of editing and running programs. Then you will learn how to create 2D graphics using shapes and coordinates. Finally, you will learn how to create interactive graphics that you can control with the mouse. 
+The course, Intro to Computer Science, will introduce you to the field of computer science and the fundamentals of computing. This course is specifically designed for students with no prior experience, and will teach students about the basics of computing.  Students will be exposed to hardware components and their tasks.  The course will cover the Google Suite of software and will introduce students to basic coding and creating mini games.
 
 ### Situation
 
-Here is my list of priorities:
-
-* Teach students how to code
-* Have fun!
-
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
+South Fork High School is a rural school in Miranda, California.  It is home to approximately 260 students in grades 9 through 12.  It is on a shared but divided campus with Miranda Junior High, which houses about 100 7th and 8th graders.  This is the only High School, aside from a necessary, small high school of 6 students, in the district that covers 750 plus square miles of rugged mountain terrain.  Many of our students live outside of town and can ride the bus for up to 1 and 1/2 hours to get to school.
 
 ## Plan
 
