@@ -15,6 +15,12 @@ South Fork High School is a rural school in Miranda, California.  It is home to 
 
 The recent federal funding from COVID allowed our school to become a 1 to 1 school with Chromebooks for each student.  One is checked out when a student enrolls and it is that student's to use for the duration of their time at South Fork.  However, our students have an aversion to using these Chromebooks and will ask if they can complete the assignment on their phone instead.
 
+The district has recently had an issue with student cell phone use in class.  The staff has been battling use, as most of the world, during instruction.  We have students that play games, watch TV or movies, are on social media, and are taking photos or filming during instruction.  The apathy for learning in our district is high.  In order to combat this, the password on the wifi has been changed several times this year.  Staff does not have access to this password,a s the IT department believes they are giving the students this password and allowing them access to the network the school devices for the staff are on.  Therefore, every time the password is changed, the two IT people for our district must go to each classroom and reconnect each device, two at least per room, to the netowrk so that the staff can teach.
+
+This happened three times this school year, and each time the students have access to the network within days.  The last time, the IT department decided to give each device on campus a one time connection password.  This worked, but also caused many problems with devices no longer working properly.  There were several creative solutions by the staff in order to get things connected and be able to teach with our technology again.
+
+Due to our students living rurally, many of them do not have reliable internet or cell service at home.  They rely on the school wifi for their "screen time," however, the students are "hijacking" the network so that teacher devices are no longer able to connect to the network due to no more IP addresses available.
+
 ## Plan
 
 ### Software Specifications
