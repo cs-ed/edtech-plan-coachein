@@ -32,9 +32,7 @@ The class will start with a little history about computers.  Then move into lear
 All software used will be web based.  The course will use Chrome as the browser and the Gooogle Suite for assignments.  Content and tasks will be presented on Google Classroom using Slides, Docs, and Forms, as well as links to video and website content.
 
 ### Hardware Specifications
-
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+Students will use one of two types of Chromebook.  I will add specifications here.
 
 ### Application
 
