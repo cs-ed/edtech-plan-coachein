@@ -13,6 +13,8 @@ The course, Intro to Computer Science, will introduce you to the field of comput
 
 South Fork High School is a rural school in Miranda, California.  It is home to approximately 260 students in grades 9 through 12.  It is on a shared but divided campus with Miranda Junior High, which houses about 100 7th and 8th graders.  This is the only High School, aside from a necessary, small high school of 6 students, in the district that covers 750 plus square miles of rugged mountain terrain.  Many of our students live outside of town and can ride the bus for up to 1 and 1/2 hours to get to school.
 
+The recent federal funding from COVID allowed our school to become a 1 to 1 school with Chromebooks for each student.  One is checked out when a student enrolls and it is that student's to use for the duration of their time at South Fork.  However, our students have an aversion to using these Chromebooks and will ask if they can complete the assignment on their phone instead.
+
 ## Plan
 
 ### Software Specifications
