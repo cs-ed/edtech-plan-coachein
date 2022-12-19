@@ -50,14 +50,8 @@ We will introduce logic and discuss if, then statements and how they apply to co
 
 Our students know how to use their phones very well, but when it comes to other computers, they don’ t know how to use them effectively as a tool.  Part of my class would focus on these basic uses and the efficiency and effectiveness of using them as the tools that they are.  The level of proficiency of the students in the class would drive how long the class focused on the basic ways a computer can help make our lives easier and more organized.
 
-
-
- Justify the use in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
-
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+Having an Intro class at South Fork would help our students come out of high school better prepared for the technology based world we live in.  It would provide opportunities for these students that they might not have otherwise.  Our community economy is based largely on agriculture, fishing and logging, which are all on the decline if not practically gone.  This community needs to have a new skill set in order to sustain.  Computers and coding provide endless opportunities such as preparation for the military or for work coding in the private sector.  It will be a new avenue for our students to explore.  As the program grows, there is room for differentiated classes.  The Intro class is for every student.  Those who wish to continue could take higher level user classes for business or coding.
 
+Our students had a hard time transitioning to virtual education, many withdrew from classes and assignments.  The social emotional impacts are prevalent in our students.  They have an apathy towards tradition learning as well as technology based learning.  Having a Computer Science pathway at our school could turn some of that apathy around.  Teaching students what computers can do to make our lives easier, more organized and even fun could help the students have a better attitude towards technology other than the cell phone.
